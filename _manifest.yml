@@ -1,0 +1,18 @@
+version: '1.0'
+owner: s2minh
+created: 2026-06-30
+workspace: Research
+
+active_projects:
+  - BaocaoTuan-PhongSystem
+  - hermes-phong-bot
+  - multi-agent-system
+  - anything-to-notebooklm
+  - sdlc-crew
+
+health_checklist:
+  - Mỗi project active có CLAUDE.md + tasks/lessons.md
+  - _manifest.yml root đã được cập nhật
+  - 05_Skills/REGISTRY.md phản ánh đúng skills đang cài
+  - Không có file .bak tạm > 30 ngày
+
